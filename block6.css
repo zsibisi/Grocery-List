@@ -1,0 +1,18 @@
+.header {
+    background-color: white;
+    padding: 20px;
+   
+}
+
+.header-box {
+    width: 69%;
+    margin: 0 auto;
+    padding: 2px;
+    background-color: rgb(15, 9, 9);
+    text-align: left;
+    float: left;
+}
+
+.header h1 {
+    margin: 0 auto;
+}
