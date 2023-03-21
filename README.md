@@ -1,4 +1,6 @@
 # Grocery-List
+![Grocery-List Webpage](https://user-images.githubusercontent.com/107902020/226699400-83a6968e-af9d-4e56-aac4-9ba502a8971e.png)
+
 This is a grocery shopping project. On this project, I organized my grocery list using the following requirements.
 
 1. Incorporating the major HTML semantic tags.
